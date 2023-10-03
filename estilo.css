@@ -1,0 +1,22 @@
+img{
+    width: 300px;
+    margin-left: -2px;
+    margin-right: -2px
+}
+
+figure{
+    width: 900px;
+    margin: auto;
+    text-align: center;
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+h1{
+    background-color: green;
+}
+
+*{
+    margin:0;
+    padding: 0;
+}
